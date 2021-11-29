@@ -1023,7 +1023,9 @@ div.HStyle17
 </p>
 <img src="https://github.com/djadudwns12/djadudwns12/blob/master/show/%EB%A3%A8%ED%8A%B8%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EA%B3%84%EB%8F%84.PNG"></a>
 <img src="https://github.com/djadudwns12/djadudwns12/blob/master/show/%EC%84%9C%EB%B8%94%EB%A6%BF%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EA%B4%80%EA%B3%84%EB%8F%84.PNG"></a>
-
+<img src="https://github.com/djadudwns12/djadudwns12/blob/master/show/url_mappings.png">
+<img src="https://github.com/djadudwns12/djadudwns12/blob/master/show/member2_%ED%85%8C%EC%9D%B4%EB%B8%94.png">
+<img src="https://github.com/djadudwns12/djadudwns12/blob/master/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.png">
 </BODY>
 
 </HTML>
